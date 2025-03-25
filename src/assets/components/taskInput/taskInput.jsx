@@ -1,7 +1,7 @@
 // taskInput.jsx
 import { useState } from 'react';
 
-import styles from './taskInput.module.css';
+import styles from './TaskInput.module.css';
 
 export const TaskInput = ({ addTask }) => {
 
